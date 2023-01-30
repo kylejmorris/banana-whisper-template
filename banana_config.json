@@ -1,0 +1,7 @@
+{
+    "name": "Whisper Base",
+    "category": "Audio",
+    "example_input": {"mp3BytesString":""},
+    "example_output": {"text": "Some transcription of the mp3 sent as input"},
+    "version": "1"
+  }
