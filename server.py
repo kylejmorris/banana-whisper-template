@@ -3,6 +3,7 @@
 
 # Instead, edit the init() and inference() functions in app.py
 
+from potassium import Potassium, Request, Response
 from sanic import Sanic, response
 import subprocess
 import app as user_src
